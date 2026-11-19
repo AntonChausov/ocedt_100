@@ -70,4 +70,5 @@
   <catalogs>Catalog.УдалитьПользователи</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
+  <documents>Document.ПродажаТовара</documents>
 </mdclass:Configuration>
